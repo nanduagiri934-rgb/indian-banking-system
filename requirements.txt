@@ -1,0 +1,17 @@
+# Indian Banking System — Dependencies
+#
+# This project uses ONLY Python standard libraries.
+# No external packages are required.
+#
+# Standard libraries used:
+#   sqlite3    — Local database storage
+#   hashlib    — PIN hashing (SHA-256)
+#   datetime   — Timestamps and date formatting
+#   random     — Account number and transaction ID generation
+#   uuid       — Customer ID generation
+#   os         — File path handling, screen clearing
+#   re         — Input validation (regex)
+#   sys        — Application exit
+#
+# To run the project:
+#   python main.py
